@@ -1,0 +1,14 @@
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\bin\Debug\lekce 8, úkol na soubory.exe.config
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\bin\Debug\lekce 8, úkol na soubory.exe
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\bin\Debug\lekce 8, úkol na soubory.pdb
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\obj\Debug\lekce 8, úkol na soubory.csprojAssemblyReference.cache
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\obj\Debug\lekce 8, úkol na soubory.csproj.CoreCompileInputs.cache
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\obj\Debug\lekce 8, úkol na soubory.exe
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\obj\Debug\lekce 8, úkol na soubory.pdb
+C:\Users\Ladili\Desktop\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\bin\Debug\lekce 8, úkol na soubory.exe.config
+C:\Users\Ladili\Desktop\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\bin\Debug\lekce 8, úkol na soubory.exe
+C:\Users\Ladili\Desktop\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\bin\Debug\lekce 8, úkol na soubory.pdb
+C:\Users\Ladili\Desktop\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\obj\Debug\lekce 8, úkol na soubory.csprojAssemblyReference.cache
+C:\Users\Ladili\Desktop\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\obj\Debug\lekce 8, úkol na soubory.csproj.CoreCompileInputs.cache
+C:\Users\Ladili\Desktop\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\obj\Debug\lekce 8, úkol na soubory.exe
+C:\Users\Ladili\Desktop\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\lekce 8, úkol na soubory\obj\Debug\lekce 8, úkol na soubory.pdb
